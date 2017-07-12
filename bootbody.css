@@ -1,0 +1,51 @@
+a {
+  text-decoration: none !important;
+}
+
+.en-markup-crop-options {
+    top: 18px !important;
+    left: 50% !important;
+    margin-left: -100px !important;
+    width: auto !important;
+    border: 2px rgba(255,255,255,.38) solid !important;
+    border-radius: 4px !important;
+}
+
+.en-markup-crop-options div div:first-of-type {
+    margin-left: 0px !important;
+}
+
+.img-size {
+  width: 500px;
+  margin-left: 40px;
+}
+
+.row {
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+.content {
+  margin-top: 40px;
+}
+
+.bland-logo {
+  -webkit-writing-mode: vertical-lr;
+  -ms-writing-mode: tb-lr;
+  writing-mode: vertical-lr;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  color: white;
+  font-family: 'Allerta Stencil', sans-serif;
+}
+
+.page-name {
+  font-size: 100px;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  color: white;
+  font-family: 'Slackey', cursive;
+}
+
